@@ -61,11 +61,5 @@
 
 
 
-<picture>
-  ./output/pacman-contribution-graph-dark.svg
-  ./output/pacman-contribution-graph.svg
-  ./output/pacman-contribution-graph.svg
-</picture>
-
 
 ###
